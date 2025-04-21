@@ -1,0 +1,14 @@
+name: flood_prediction
+channels:
+  - defaults
+  - https://repo.anaconda.com/pkgs/main
+  - https://repo.anaconda.com/pkgs/r
+  - https://repo.anaconda.com/pkgs/msys2
+dependencies:
+  - python=3.9
+  - pandas=2.2.3
+  - seaborn=0.13.2
+  - matplotlib=3.9.2
+  - scikit-learn=1.6.1
+  - ipykernel
+prefix: C:\Users\ACER\miniconda3\envs\flood_prediction
