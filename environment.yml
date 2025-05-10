@@ -11,4 +11,3 @@ dependencies:
   - matplotlib=3.9.2
   - scikit-learn=1.6.1
   - ipykernel
-prefix: C:\Users\ACER\miniconda3\envs\flood_prediction
